@@ -15,4 +15,4 @@ In this work, we propose **Simu-Microscope**, an open-source STM control system 
 - by leveraging the mature algorithm ecosystem of Simulink, the development complexity of STM controllers is substantially reduced.  
 ## Validation
 
-Simu-Microscope fully implements the required STM system functions and integrates a dedicated graphical user interface (GUI). After integrating the control system into a home-made STM platform, topographic imaging of a DVD-R sample was performed. The results show that the obtained grating image is consistent with measurements from a commercial atomic force microscope (AFM), validating the feasibility and effectiveness of the proposed control system.
+Simu-Microscope fully implements the required STM system functions and integrates a dedicated graphical user interface (GUI). After integrating the control system into a home-made STM platform, topographic imaging of a DVD-R sample was performed. The results show that the obtained grating image is consistent with measurements from a commercial atomic force microscope (AFM), validating the feasibility and effectiveness of the proposed control system.
