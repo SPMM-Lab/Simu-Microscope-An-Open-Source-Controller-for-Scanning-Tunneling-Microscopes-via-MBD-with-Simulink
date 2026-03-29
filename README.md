@@ -1,8 +1,5 @@
 # Simu-Microscope
-Simu-Microscope is an open-source STM control system developed by SPMM Lab (Scanning Probe Metrology and Manufacturing Laboratory)
-
-
-This project is developed by **SPMM Lab (Scanning Probe Metrology and Manufacturing Laboratory)**.
+Simu-Microscope is an open-source STM control system developed by **SPMM Lab (Scanning Probe Metrology and Manufacturing Laboratory)**.
 
 Scanning Tunneling Microscopy (STM), as a key member of the Scanning Probe Microscopy (SPM) family, is widely used in nanotechnology due to its ultra-high spatial resolution. However, the development of STM control systems that balance cost, performance, and development efficiency remains a critical challenge.
 
